@@ -1,0 +1,38 @@
+.bing {
+    position:relative;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+  }
+  .bing h1 {
+    text-align:center;
+    position:absolute;top:50%;left:0;width:100%;
+    margin-top:-20px; /*make the negative top margin = half your h1 element height */
+    color: white;
+  }
+
+  .bar{
+    text-align:center;
+    position:absolute;top:85%;left:0;width:100%;
+    margin-top:-20px; /*make the negative top margin = half your h1 element height */
+  }
+
+  .iput{
+    text-align:center;
+    position:absolute;top:85%;left:0;width:100%;
+    margin-top:-20px; /*make the negative top margin = half your h1 element height */
+  }
+
+  p{
+    text-align: right;
+  }
+  
+  h2{
+    text-align: right;
+  }
+
+  .logogo{
+    text-align:center;
+    position:absolute;top:30%;left:-25%;width:100%;
+    margin-top:-20px; /*make the negative top margin = half your h1 element height */
+  }
