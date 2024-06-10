@@ -33,6 +33,25 @@
 
   .logogo{
     text-align:center;
-    position:absolute;top:30%;left:-25%;width:100%;
+    position:absolute;top:30%;left:0%;width:100%;
     margin-top:-20px; /*make the negative top margin = half your h1 element height */
+  }
+  h1{
+    color: white;
+  }
+
+  h2{
+    color: white;
+  }
+
+  body{
+    background-color: lightgreen;
+  }
+
+  p{
+    color: white;
+  }
+  
+  .bucks{
+    text-align: left;
   }

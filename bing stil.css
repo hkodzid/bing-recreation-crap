@@ -17,3 +17,7 @@
     position:absolute;top:85%;left:0;width:100%;
     margin-top:-20px; /*make the negative top margin = half your h1 element height */
 }
+
+body{
+    background-color: lightgreen;
+}
